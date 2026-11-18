@@ -1,0 +1,8 @@
+-O2
+-Wall
+-Wextra
+-std=c17
+-I源码
+-I源码/头文件
+-I/opt/homebrew/include
+-I/Users/true/VulkanSDK/1.4.357.1/macOS/lib/pkgconfig/../../include
